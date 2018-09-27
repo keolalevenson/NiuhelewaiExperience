@@ -1,0 +1,636 @@
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Brushes/Brushes1.uasset" 0
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Brushes/CloudsBrush1.uasset" 1
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 2
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 3
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 4
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 5
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Geometry/Meshes/CubeMaterial.uasset" 6
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 7
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Geometry/Meshes/TemplateFloor.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 9
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Billboards_Normal_Tex.uasset" 10
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Billboards_Tex.uasset" 11
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Billboard_Mat.uasset" 12
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_D_Tex.uasset" 13
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_N_Tex.uasset" 14
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_2_Mat.uasset" 15
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_D_Tex.uasset" 16
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_N_Tex.uasset" 17
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_TileMoss_01_D_Tex.uasset" 18
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_Mat.uasset" 19
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Fronds_Mat.uasset" 20
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Normal_Tex.uasset" 21
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Specular_Tex.uasset" 22
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Tex.uasset" 23
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Leaves_Mat.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 25
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 32
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 33
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 35
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 36
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 37
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderMask.uasset" 39
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01.uasset" 40
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_Depth.uasset" 41
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_N.uasset" 42
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_S_R.uasset" 43
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_SSS.uasset" 44
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard.uasset" 45
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard_Inst.uasset" 46
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_02.uasset" 47
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/DirtStones1/DirtStones1_Albedo.uasset" 48
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/DirtStones1/DirtStones1_MRAH.uasset" 49
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/DirtStones1/DirtStones1_Normal.uasset" 50
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/ForestMacro/TreesMacro1_Albedo.uasset" 51
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/ForestMacro/TreesMacro1_Normal.uasset" 52
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/ForestMacro/TreesMacro_MRAH.uasset" 53
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassClumpy1/GrassClumpy1_Albedo.uasset" 54
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassClumpy1/GrassClumpy1_MRAH.uasset" 55
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassClumpy1/GrassClumpy1_Normal.uasset" 56
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassLush1/GrassLush1_Base_Color.uasset" 57
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassLush1/GrassLush1_MRAH.uasset" 58
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassLush1/GrassLush1_Normal.uasset" 59
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassStones1/GrassStones1_Albedo.uasset" 60
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassStones1/GrassStones1_MRAH.uasset" 61
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/GrassStones1/GrassStones1_Normal.uasset" 62
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/Mud1/Mud1_Albedo.uasset" 63
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/Mud1/Mud1_MRAH.uasset" 64
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/Sand1/Sand1_Albedo.uasset" 65
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/Sand1/Sand1_MRAH.uasset" 66
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/M_landscape.uasset" 67
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/M_landscape_Inst1.uasset" 68
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/M_landscape_Tessellation.uasset" 69
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/Mud1/Mud1_Normal.uasset" 70
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Textures/Sand1/Sand1_Normal.uasset" 71
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/M_CubeTest.uasset" 72
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/M_Landscape.uasset" 73
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/RT_Niuhelewai2.uasset" 74
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/RT_Niuhelewai3.uasset" 75
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/KukuiTree1_Billboard.uasset" 76
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/KukuiTree1_SubSurfaceMask.uasset" 77
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/M_LowPolyTree.uasset" 78
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/Kukui1_LowPoly.uasset" 79
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 80
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 81
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 82
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/Oahu_macro.uasset" 83
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/M_OahuMacro.uasset" 84
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/Oahu_Macro_Mesh.uasset" 85
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/Oahu_Macro_Mesh_HIgh.uasset" 86
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/test.uasset" 87
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/BarrelsAndCrates/ton2.uasset" 88
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/ManOfWar/Textures/T_Wood_Walnut_N.uasset" 89
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/BarrelsAndCrates/barrel_Mat.uasset" 90
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/BarrelsAndCrates/barrel.uasset" 91
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/BP_BuoyantActor.uasset" 92
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 94
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 95
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 96
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 97
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MPC_Ocean.uasset" 98
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_Gerstner_Wave.uasset" 99
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_Gerstner_Wave_Set.uasset" 100
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 101
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/Motion_4WayChaos_NormalShared.uasset" 102
+"../../../Engine/Content/EngineMaterials/T_Default_MacroVariation.uasset" 103
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/Motion_4WayChaosShared.uasset" 104
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/SSS.uasset" 105
+"../../../Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset" 106
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Foam_D.uasset" 107
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Foam_normal.uasset" 108
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Foam_roughness.uasset" 109
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_LargeWaves_H.uasset" 110
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Perlin_Noise_M.uasset" 111
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Seafoam_01.uasset" 112
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean.uasset" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset" 115
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Gradients/SmoothCurve.uasset" 116
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float3.uasset" 117
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 118
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 119
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 120
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 121
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_OceanSSS.uasset" 122
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_Panner.uasset" 123
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_LargeWaves_N.uasset" 124
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_OceanFoam02_normal.uasset" 125
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_OceanFoam02_Rotated_normal.uasset" 126
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_OceanFoam_01.uasset" 127
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_OceanFoam_M.uasset" 128
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Sky_Non_HDRI.uasset" 129
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Water_N.uasset" 130
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_Old.uasset" 131
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_SSR.uasset" 132
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_HeightModulation.uasset" 133
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_Depth.uasset" 134
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Depth.uasset" 135
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Depth_Nogerstner.uasset" 136
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Depth_Ultra.uasset" 137
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Foam.uasset" 138
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Foam_Cubemap.uasset" 139
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Nogerstner.uasset" 140
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_SSR_Foam.uasset" 141
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_SSR_Foam_Cubemap.uasset" 142
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_SSR_Nogerstner.uasset" 143
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 144
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 145
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 146
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/T_ExampleTerrainHeightmap.uasset" 147
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_Ultra.uasset" 148
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Inst_Ocean_Ultra.uasset" 149
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Meshes/SM_OceanTop.uasset" 150
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Meshes/SM_UnderWater2.uasset" 151
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/OceanShaderEnum.uasset" 152
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/WaveIcon.uasset" 153
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/BP_Ocean.uasset" 154
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_BlendZ.uasset" 155
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Caustics.uasset" 156
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_TileNoise.uasset" 157
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Caustics_LF.uasset" 158
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Caustics_LF_Inst.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 161
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 162
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uasset" 163
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/SCurve.uasset" 164
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/droplet-normal.uasset" 165
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_TileDroplets_A.uasset" 166
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_TileDroplets_N.uasset" 167
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_WaterDrop_N.uasset" 168
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_WetLensPP.uasset" 169
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_WetLensPP_Inst.uasset" 170
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 171
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/BP_Underwater.uasset" 172
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/E_BeaufortScale.uasset" 173
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/Foam.uasset" 174
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/FoamWakes/M_Wake.uasset" 175
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Meshes/SM_SplinePlaneMesh.uasset" 176
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/FoamWakes/BP_Wake.uasset" 177
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_AngleFade.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 179
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_LightAbsorption.uasset" 180
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_SoftFresnel.uasset" 181
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 182
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 183
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 184
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 185
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 186
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_PP_RadialBlur.uasset" 187
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MI_PP_RadialBlur.uasset" 188
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_UnderwaterDistortion.uasset" 189
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_UnderwaterDistortion_Inst.uasset" 190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 191
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/MF_DepthToWorldPosition.uasset" 192
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Underwater_PP.uasset" 193
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Underwater_PP_Inst.uasset" 194
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Underwater_PP_Inst2.uasset" 195
+"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_01_tex.uasset" 196
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_WaterSystem_Opaque.uasset" 197
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Ground_Grass_N.uasset" 198
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_WaterTest.uasset" 199
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/TextureUV.uasset" 200
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Exclusion.uasset" 201
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/Water1.uasset" 202
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/Water2.uasset" 203
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/Water3.uasset" 204
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/WaterLightFunction.uasset" 205
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_OceanStorm.uasset" 206
+"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Capsule.uasset" 207
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/M_Ocean_Versions/M_Ocean_CapsuleMask.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 210
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Sand_D.uasset" 211
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Sand_M.uasset" 212
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Sand_N.uasset" 213
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_SandDunes_N.uasset" 214
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_SandDunes_N_DISP.uasset" 215
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Materials/Sand/M_Sand.uasset" 216
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Meshes/SM_OceanPlaneFar.uasset" 217
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Meshes/SM_OceanPlaneFarRound.uasset" 218
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Meshes/SM_OceanPlane_OLD.uasset" 219
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Meshes/SM_UnderWater1.uasset" 220
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Old/WaveParameters.uasset" 221
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Old/WaveSet.uasset" 222
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Old/BP_OceanManager.uasset" 223
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/LUT_DesaturatedFog.uasset" 224
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_FullGrass_N.uasset" 225
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_Glacier_Cap_N.uasset" 226
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_MediumWaves_H.uasset" 227
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_MediumWaves_N.uasset" 228
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_MicroWaves_N.uasset" 229
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_OceanNoise.uasset" 230
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/T_SmallWaves_N.uasset" 231
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 232
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Buoy/Materials/M_Buoy01.uasset" 233
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Buoy/Materials/M_Buoy01_MI_6.uasset" 234
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 235
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 236
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/BP_Compass.uasset" 237
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/CC_Sky_Cloud_Color.uasset" 238
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/CC_Sky_Horizon_Color.uasset" 239
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/CC_Sky_Sun_Color.uasset" 240
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/CC_Sky_Zenith_Color.uasset" 241
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Clouds02_normal.uasset" 242
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Clouds03_normal.uasset" 243
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Clouds_M.uasset" 244
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/Masks/CloudPack.uasset" 245
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_Clouds.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/RotateVector.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 250
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/MF_SkyboxImage.uasset" 251
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_MilkyWay.uasset" 252
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Moon_D.uasset" 253
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Sphere_N.uasset" 254
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_Sky_New.uasset" 255
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_Sky_Old.uasset" 256
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/Textures/TC_CubemapCapture.uasset" 257
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Snow/Textures/T_Flake1b.uasset" 258
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Snow/Materials/FX_simpleSnow_mblur.uasset" 259
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Snow/Materials/FX_simpleSnow_mblur_INST.uasset" 260
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/Elemental/Effects/Vectors/EyeVectors_rightEye_55.uasset" 261
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/ShipsAndExamples/Assets/Elemental/Effects/Fx_Atmospherics/Effects/P_Blowing_Snow.uasset" 262
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Meshes/SM_CloudSurface.uasset" 263
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Meshes/SM_SkySphere.uasset" 264
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_lightning.uasset" 265
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Meshes/SM_lightning.uasset" 266
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/ParticleFX/P_lightning_point.uasset" 267
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/BP_Sky.uasset" 268
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/FC_Sun_Azimuth.uasset" 269
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/MF_RandomSineWave.uasset" 270
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/MPC_SkyParameters.uasset" 271
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_TilingNoise03.uasset" 272
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_CloudFunction.uasset" 273
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/FC_Moon_Rotation.uasset" 274
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/FC_Sun_Zenith.uasset" 275
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 277
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Moon_AO.uasset" 278
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Moon_Diffuse.uasset" 279
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Moon_Height.uasset" 280
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_Moon.uasset" 281
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_Sky.uasset" 282
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Meshes/Moon.uasset" 283
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Meshes/SM_RotatorCube.uasset" 284
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Old/BP_SkydomeNiuhelewai.uasset" 285
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/NiuhelewaiBG_MaskAccurate.uasset" 286
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/NiuhelewaiBG_New.uasset" 287
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/LandscapeVista.uasset" 288
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/LandscapeVista_Inst.uasset" 289
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Old/BP_Skydome.uasset" 290
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Old/BP_Skydome_Child.uasset" 291
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Old/E_DayOfWeek.uasset" 292
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Old/E_MonthOfYear.uasset" 293
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_SmokeSubUV_8X8_02.uasset" 294
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_TilingClouds_01.uasset" 295
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_Snow_Blowing_unLit.uasset" 296
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/ParticleFX/P_BlowClouds.uasset" 297
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_Snow_Blowing_unLit_LowBias.uasset" 298
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/ParticleFX/P_BlowGround.uasset" 299
+"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_01.uasset" 300
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Caustics05.uasset" 301
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_raindrop.uasset" 302
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_raindrop_normal.uasset" 303
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_TilingNoise06_N.uasset" 304
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_raindrop.uasset" 305
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/ParticleFX/P_GPU_particles_collision2.uasset" 306
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_DropSubUV_A.uasset" 307
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_DropSubUV_N.uasset" 308
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/TC_CubeNearEntrance.uasset" 309
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Materials/M_WaterDrop_SubUV.uasset" 310
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/ParticleFX/P_Rain_Test.uasset" 311
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Cloud_Masks.uasset" 312
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_Moon_Bump.uasset" 313
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Textures/T_ScreenDirt01.uasset" 314
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/HCC_Far_Map_NRM.uasset" 315
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/KukuiTree1_LowPoly.uasset" 316
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/NiuhelewaiBG.uasset" 317
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/NiuhelewaiBGOld.uasset" 318
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/NiuhelewaiBG_Mask.uasset" 319
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/Oahu_Normal.uasset" 320
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/Oahu_Skybox_Macro.uasset" 321
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/Oahu_Skybox_NRM.uasset" 322
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/RT_Niuhelewai1.uasset" 323
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/Masks/TreeBillboard_LerpMask.uasset" 324
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Materials/FakedCaustics.uasset" 325
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Textures/T_MicroWaves_N.uasset" 326
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Textures/T_OceanFoam_01.uasset" 327
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 328
+"../../../Engine/Content/BasicShapes/Cone.uasset" 329
+"../../../Engine/Content/BasicShapes/Cube.uasset" 330
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 331
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 332
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 333
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 334
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 335
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 336
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 337
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 338
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 339
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 340
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 341
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 342
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 343
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 344
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 345
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 346
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 347
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 348
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 349
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 350
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 351
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 352
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 353
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 354
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 355
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 356
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 357
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 358
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 359
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 360
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 361
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 362
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 363
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 364
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 365
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 366
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 367
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 368
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 369
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 370
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 371
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 372
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 373
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 374
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 375
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 376
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 377
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 378
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 379
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 380
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 381
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 382
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 383
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 384
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 385
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 386
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 387
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 388
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 389
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 390
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 391
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 392
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 393
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 394
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 395
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 396
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 397
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 398
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 399
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 400
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 401
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 402
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 403
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 404
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 406
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 407
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 408
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 409
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 410
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 411
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 412
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 413
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 414
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 415
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 416
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 417
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 418
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 419
+"../../../Engine/Content/EngineResources/Black.uasset" 420
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 421
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 422
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 423
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 424
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 425
+"../../../Engine/Content/EngineSounds/Master.uasset" 426
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 427
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 428
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 429
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 430
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 431
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 432
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 433
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 437
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 438
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 439
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 440
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 441
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 442
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 443
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 444
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 445
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 446
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 447
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 448
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 449
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 450
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 451
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 452
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 453
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 454
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 455
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 456
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 457
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 458
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 459
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 460
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 461
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 462
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 463
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 464
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 465
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 466
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 467
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 468
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 469
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 470
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 471
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 472
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 473
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 474
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 475
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 476
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 477
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 478
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 479
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 480
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 481
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 482
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 483
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 484
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 485
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 486
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 487
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Meshes/BaseMaterial.uasset" 488
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 489
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 490
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonCPP/Blueprints/FirstPersonProjectile.uasset" 491
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 492
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 493
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 494
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 495
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 496
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 497
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 498
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 499
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 500
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 501
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 502
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 503
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 504
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 505
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 506
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 507
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 508
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 509
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 510
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 511
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 512
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 513
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 514
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 515
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 516
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 517
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 518
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 519
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 520
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset" 521
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset" 522
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 523
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 524
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 525
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Geometry/Meshes/1M_Cube.uasset" 526
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" 527
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 528
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 529
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 530
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 531
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 532
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 533
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 534
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 535
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 536
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/LandscapeTest1_BuiltData.uasset" 537
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/M_OahuMacro_Inst.uasset" 538
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 539
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 540
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/LandscapeTest1.umap" 541
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/LandscapeTest2_BuiltData.uasset" 542
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/LandscapeTest2.umap" 543
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Dirt_LayerInfo.uasset" 544
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Grass1_LayerInfo.uasset" 545
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Grass2_LayerInfo.uasset" 546
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Grass3_LayerInfo.uasset" 547
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/MacroTrees_LayerInfo.uasset" 548
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Mud_LayerInfo.uasset" 549
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/Sand_LayerInfo.uasset" 550
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/LandscapeTest3_BuiltData.uasset" 551
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/M_landscape_Inst.uasset" 552
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/LandscapeTest3.umap" 553
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 554
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Ocean/BP_SunVectorUpdater.uasset" 555
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Sky/Curves/CC_Sky_Cloud_Color2.uasset" 556
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BuiltData.uasset" 557
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 558
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 559
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Lake/Textures/T_MediumWaves_H.uasset" 560
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Lake/Textures/T_MediumWaves_N.uasset" 561
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Lake/Textures/T_SmallWaves_N.uasset" 562
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Translucent/Materials/M_TranslucentWater.uasset" 563
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.uasset" 564
+"../../../Engine/Content/BasicShapes/Plane.uasset" 565
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Material/WorldCoords-XY.uasset" 566
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_01_D.uasset" 567
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_02_M.uasset" 568
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Textures/T_Water_N.uasset" 569
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_01.uasset" 570
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01.uasset" 571
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD1.uasset" 572
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD2.uasset" 573
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.uasset" 574
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/TreeBillboard.uasset" 575
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard_Inst2.uasset" 576
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/TreeBillboard2.uasset" 577
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard_Inst_Short.uasset" 578
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/TreeBillboardShort.uasset" 579
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard_Inst_Short2.uasset" 580
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/TreeBillboardShort2.uasset" 581
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai.umap" 582
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_sharedassets/Dirt_LayerInfo.uasset" 583
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_sharedassets/Grass1_LayerInfo.uasset" 584
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_sharedassets/Grass2_LayerInfo.uasset" 585
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_sharedassets/Grass3_LayerInfo.uasset" 586
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_sharedassets/MacroTrees_LayerInfo.uasset" 587
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_sharedassets/Mud_LayerInfo.uasset" 588
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_sharedassets/Sand_LayerInfo.uasset" 589
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG_BuiltData.uasset" 590
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Landscape/M_landscape_Inst_BakedBG.uasset" 591
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Textures/RT_NiuhelewaiNew.uasset" 592
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_BakedBG.umap" 593
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_for_skybox_export_BuiltData.uasset" 594
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 595
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 596
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 597
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Materials/RT_Niuhelewai1.uasset" 598
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_for_skybox_export.umap" 599
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 600
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 601
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonBP/Blueprints/FirstPersonCharacterNoGun.uasset" 602
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 603
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 604
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 605
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_With_Mesh_Mountains_BuiltData.uasset" 606
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Models/Oahu_skybox.uasset" 607
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/Levels/Niuhelewai_With_Mesh_Mountains.umap" 608
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Lake/Materials/M_LakeWater_01.uasset" 609
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Textures/T_LargeWaves_H.uasset" 610
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Lake/Materials/M_LakeWater_01_Inst.uasset" 611
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 612
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Materials/OceanWater_SS.uasset" 613
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Textures/T_LargeWaves_N.uasset" 614
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Textures/T_Seafoam_01.uasset" 615
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Materials/M_OceanWater_1.uasset" 616
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Ocean/Materials/M_OceanWater_1_Inst.uasset" 617
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Meshes/SM_OceanWater.uasset" 618
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Lake/Blueprint/BP_LakeWater.uasset" 619
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Textures/T_Detail_Rocky_N.uasset" 620
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_D.uasset" 621
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Textures/T_RockMesh_M.uasset" 622
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Textures/T_RockMesh_N.uasset" 623
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Props/Materials/M_Rock.uasset" 624
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Props/SM_Rock.uasset" 625
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Maps/LakeWater_Example.umap" 626
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Maps/OceanWater_Example.umap" 627
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.uasset" 628
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Textures/T_MacroVariation.uasset" 629
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Textures/T_Perlin_Noise_M.uasset" 630
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_N.uasset" 631
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Environment/Materials/M_Rock_Basalt.uasset" 632
+"../../../../../../Unreal Projects/NiuhelewaiExperience/Content/WaterPlane/Maps/TranslucentWater_Example.umap" 633
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 634
+"../../../Engine/Content/Maps/Entry.umap" 635
